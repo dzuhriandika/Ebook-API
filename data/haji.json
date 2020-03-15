@@ -1,0 +1,131 @@
+[
+    {
+        "materiId": 1,
+        "title": "Pengertian Haji",
+        "imageLink": "https://miro.medium.com/max/328/1*i5Yi84yxJc9ul5OTUg5VFw.png",
+        "videoLink": "https://www.youtube.com/watch?v=1yXN5rCVag0",
+        "description": "Menurut bahasa (etimologi) adalah pergi ke Baitullah (Kakbah) untuk melaksanakan ibadah yang telah ditetapkan atau ditentukan Allah swt.  Secara istilah (terminologi) adalah pergi beribadah ke tanah suci (Mekah), melakukan tawaf, sa’i, dan wukuf di Padang Arafah serta melaksanakan semua ketentuan-ketentuan haji di bulan Zulhijah.",
+        "subMateri" : [],
+        "tag" : "haji"
+    },
+    {
+        "materiId": 2,
+        "title": "Rukun Haji",
+        "imageLink": "https://miro.medium.com/max/700/1*4WD8XgwQwGzx4frxrtuLtg.jpeg",
+        "videoLink": "https://www.youtube.com/watch?v=aD8rLzkuGb4",
+        "description": "Rukun haji ini adalah suatu kegiatan dalam ibadah dalam haji yang mana tidak boleh ditinggalkan oleh seseorang. Jika orang tersebut melalaikan atau meninggalkan salah satu rukun haji ini maka ibadah hajinya tidaklah sah. Karena meninggalkan rukun ini, juga tidak bisa diganti dengan membayar dam. Berikut beberapa rukun dalam haji :",
+        "subMateri": [
+            {
+                "id": 1,
+                "title": "Niat",
+                "description": "Niat adalah berniat untuk mulai mengerjakan ibadah haji dengan memakai kain putih yang tidak dijahit. Ibadah ini dimulai setelah sampai di miqat."
+            },
+            {
+                "id": 2,
+                "title": "Wukuf",
+                "description": "Wukuf di Arafah, adalah berhenti di Padang Arafah sejak tergelintirnya matahari tanggal 9 Zulhijah sampai terbit fajar pada tanggal 10 Zulhijah."
+            },
+            {
+                "id": 3,
+                "title": "Tawaf Ifadah",
+                "description": "Tawaf ifadah, adalah mengelilingi Ka’bah sebanyak 7 kali dengan syarat sebagai berikut : \n 1. Suci dari hadas dan najis baik badan maupun pakaian. 2. Menutup aurat.3. Ka’bah berada di sebelah kiri orang yang mengelilinginya.4. Memulai tawaf dari arah hajar aswad (batu hitam) yang terletak di salah satu pojok di luar Ka’bah."
+            },
+            {
+                "id": 4,
+                "title": "Sa'i",
+                "description": "Sa’i, adalah lari-lari kecil atau jalan cepat antara Safa dan Marwa."
+            },
+            {
+                "id": 5,
+                "title": "Tahalul",
+                "description": "Tahalul, adalah mencukur atau menggunting rambut sedikitnya tiga helai."
+            },
+            {
+                "id": 6,
+                "title": "Tertib",
+                "description": "tertib, adalah menjalankan rukun haji secara berurutan."
+            }
+        ],
+        "isHome": true,
+        "tag" : "haji"
+    },
+    {
+        "materiId": 3,
+        "title": "Hukum Haji",
+        "imageLink": "https://cdn-images-1.medium.com/max/600/1*2Rb5hi0q_BIj1FqNv_oyPw.jpeg",
+        "videoLink": "https://www.youtube.com/watch?v=rNSzlp-Vul8",
+        "description": "Hukum Haji adalah wajib bagi setiap muslim yang mampu terutama bagi mereka yang sudah mampu secara lahir maupun batin. Artinya ketika seorang muslim sudah mampu untuk melaksanakan ibadah haji tersebut, hendaklah untuk menyegerakannya.",
+        "subMateri" : [],
+        "tag" : "haji"
+    },
+    {
+        "materiId": 4,
+        "title": "Syarat Haji",
+        "imageLink": "https://miro.medium.com/max/328/1*iTRZ5q5gvXhac_7bqyBQGQ.png",
+        "videoLink": "https://www.youtube.com/watch?v=i4WASwBdHOI",
+        "description": "Syarat adalah tuntutan atau permintaan yang harus dipenuhi. Syarat haji sebagai berikut : \n1.Mampu \n2.Islam \n3.Berakal \n4.Baligh \n5.Merdeka",
+        "subMateri": [],
+        "isHome" : true,
+        "tag" : "haji"
+    },
+    {
+        "materiId": 5,
+        "title": "Wajib Haji",
+        "imageLink": "https://cdn-images-1.medium.com/max/600/1*Ipmg8bQMxFhRzDvwh0dcZg.jpeg",
+        "videoLink": "https://www.youtube.com/watch?v=aD8rLzkuGb4",
+        "description": "Wajib haji ini adalah segala kewajiban yang perlu dikerjakan supaya ibadah haji seseorang menjadi sah. Ketika seseorang meninggalkannya,  maka orang tersebut hanya dikenai hukuman membayar dam. Wajib haji ada tujuh macam, yakni sebagai berikut. \n1.Ihram mulai dari miqat. \n2.Bermalam (mabit) di Muzdalifah pada malam hari raya haji. \n3.Melempar Jumratul Aqabah. \n4.Melempar tiga jumrah yakni, jumrah ula, jumrah wusta, dan jumrah aqabah. Melempar jumrah ini dilakukan setiap hari pada tanggal 11, 12, dan 13 bulan Zulhijah dan waktunya setelah tergelincir matahari. Masing-masing jumrah dilempar sebanyak 7 (tujuh) kali dengan batu kecil. \n5.Bermalam (mabit) di Mina. \n6.Tawaf wada (thawaf perpisahan) sebelum meninggalkan kota Makkah. \n \nMenjauhkan diri dari larangan atau perbuatan yang diharamkan dalam ihram dan umrah yaitu sebagai berikut: \na.Bagi pria dilarang memakai pakaian berjahit.\nb.Menutup kepala bagi pria dan menutup muka bagi wanita.\nc.Memotong kuku.\nd.Membunuh hewan buruan. \ne.Memakai wangi-wangian.\nf.Hubungan suami isteri (bersetubuh).\ng.Mengadakan aqad nikah (kawin atau mengawinkan).\nh.Memotong rambut atau bulu badan yang lain.",
+        "subMateri": [],
+        "isHome" : true,
+        "tag" : "haji"
+    },
+    {
+        "materiId": 6,
+        "title": "Sunnah Haji",
+        "imageLink": "https://miro.medium.com/max/328/1*J4z_Fg7bMOdvE84_y0yygg.png",
+        "videoLink": "https://www.youtube.com/watch?v=rnVuqJOZbiU",
+        "description": "Sunah dalam ibadah merupakan penyempurna. Maka, melakukan sunnah dalam ibadah haji dan umroh sangat dianjurkan dan rugi jika ditinggalkan. Berikut Sunnah Sunnah Haji :",
+        "subMateri": [
+            {
+                "id": 1,
+                "title": "3 Sunnah mengerjakan Haji",
+                "description": "Melaksanakan haji dengan cara : \n1. Ifrad : berniat untuk melaksanakan ibadah haji beserta ketentuan-ketentuannya sampai selesai, dan kemudian dilanjutkan dengan niat untuk melaksanakan ibadah umrah.\n2. Tamattu : berniat melaksanakan ibadah umrah beserta ketentuan-ketentuannya sampai selesai. Setelah selesai dilanjutkan kembali dengan berniat melaksanakan ibadah haji.\n3. Qiran : berniat melakukan ibadah haji dan ibadah umrah secara bersamaan."
+            },
+            {
+                "id": 2,
+                "title": "Membaca Talbiyah",
+                "description": "Membaca talbiyah selama dalam ihram sampai melempar jumrah aqabah pada Hari Raya Haji(Idul Adha). Bunyi Talbiyah sebagai berikut : \n Labbaika allohumma labbaika, labbaika laa syariika laka labbaika. Innal hamda, wan ni’mata laka wal mulka laa syariika laka."
+            },
+            {
+                "id": 3,
+                "title": "Berdo’a",
+                "description": "Berdoa kepada Allah swt. setelah membaca talbiyah."
+            },
+            {
+                "id": 4,
+                "title": "Berzikir",
+                "description": "Berzikir sewaktu tawaf qudum ( thawaf pada saat pertama kali datang di kota mekah al-muqaramah)"
+            },
+            {
+                "id": 5,
+                "title": "Sholat Sunnah",
+                "description": "Salat sunnah thawaf dua rakaat sesudah tawaf qudum."
+            },
+            {
+                "id": 6,
+                "title": "Mencium Hajar Aswad",
+                "description": "Masuk ke Kakbah dan mencium hajar aswad (bila tidak bisa di sunatkan untuk memasuki Hijr Ismail)"
+            }
+        ],
+        "isHome" : true,
+        "tag" : "haji"
+    },
+    {
+        "materiId": 7,
+        "title": "Manfaat Haji",
+        "imageLink": "https://cdn-images-1.medium.com/max/600/1*XG9605FcwN7tLwP1trGcaw.jpeg",
+        "videoLink": "https://www.youtube.com/watch?v=29cOJq5HNc4&t=148s",
+        "description": "Manfaat haji sangatlah banyak yang dapat kita rasakan. Berikut beberapa manfaat haji sebagai berikut: \n1.Semakin mendekatkan diri kepada Allah swt.\n2.Menjalin ukhuwah antara umat Islam dari berbagai penjuru dunia. \n3.Beribadah sambil belajar sejarah nabi-nabi yang tercatat dalam al-Qur’an, seperti kisah Nabi Adam dan Hawa, Nabi Ibrahim dan Ismail, mengenal kegigihan Rasulullah saw., dalam mempertahankan agama Islam pada zaman dahulu.\n4.Mensyukuri atas segala nikmat yang diberikan oleh Allah swt., kepada kita semua.\n5.Menumbuhkan semangat muslim yang lain untuk berusaha semaksimal mungkin guna melaksanakan ibadah haji.",
+        "subMateri":[],
+        "tag":"haji"
+    }
+]
