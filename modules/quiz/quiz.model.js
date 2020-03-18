@@ -4,7 +4,6 @@ const Schema = mongoose.Schema;
 const schema = new Schema({
     id : { type : Number },
     title : { type : String },
-    imageLink : { type  : String },
     description : { type : String },
     isHome : { type : Boolean },
     isQuiz : { type : Boolean },
